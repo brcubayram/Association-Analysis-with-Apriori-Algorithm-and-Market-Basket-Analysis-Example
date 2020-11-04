@@ -1,7 +1,5 @@
 # Association-Analysis-with-Apriori-Algorithm-and-Market-Basket-Analysis-Example
 
-# Association-Analysis-with-Apriori-Algorithm-and-Market-Basket-Analysis-Example
-
 ## What is Association Analysis?
 Data mining methods that enable future studies by analyzing historical data and determining the coexistence in these data are called Association Analysis. These methods reveal the rules of association with certain probabilities. We can give examples of Netflix series & movie recommendations, Youtube video suggestions, Yemeksepeti additional product recommendations to fit our minds perfectly.
 
